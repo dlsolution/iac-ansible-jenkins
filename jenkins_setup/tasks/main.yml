@@ -1,0 +1,5 @@
+---
+- include: Java_install.yml
+- include: Maven_install.yml
+- include: docker_install.yml
+- include: Jenkins_install.yml
